@@ -4,18 +4,18 @@
 
 ## 2019
 
-* [März 2019](2019/maerz-2019.md)
-* [Februar 2019](2019/februar-2019.md)
-* [Januar 2019](2019/goobi-worklow-digest-januar-2019.md)
+* [März 2019](2019/201903.md)
+* [Februar 2019](2019/201902.md)
+* [Januar 2019](2019/201901.md)
 
 ## 2018
 
-* [Dezember 2018](2018/untitled-1.md)
-* [November 2018](2018/untitled.md)
-* [Oktober 2018](2018/oktober-2018.md)
-* [September 2018](2018/september-2018.md)
-* [August 2018](2018/august-2018.md)
-* [Juli 2018](2018/juli-2018.md)
-* [Juni 2018](2018/juni-2018.md)
-* [Mai 2018](2018/mai-2018.md)
+* [Dezember 2018](2018/201812.md)
+* [November 2018](2018/201811.md)
+* [Oktober 2018](2018/201810.md)
+* [September 2018](2018/201809.md)
+* [August 2018](2018/201808.md)
+* [Juli 2018](2018/201807.md)
+* [Juni 2018](2018/201806.md)
+* [Mai 2018](2018/201805.md)
 
