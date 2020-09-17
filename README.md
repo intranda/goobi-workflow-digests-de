@@ -4,12 +4,12 @@ An dieser Stelle geben wir einen detaillierten Einblick in unsere aktuellen Entw
 
 Im Inhaltsverzeichnis auf der linken Seite findet sich eine Auflistung der jeweiligen Monate, zu denen eine solche Zusammenstellung bereits vorliegt. Und zusätzlich sind im Folgenden auch einmal die 5 letzten Digests verlinkt:
 
+{% page-ref page="2020/07.md" %}
+
+{% page-ref page="2020/06.md" %}
+
 {% page-ref page="2020/05.md" %}
 
 {% page-ref page="2020/04.md" %}
 
 {% page-ref page="2020/03.md" %}
-
-{% page-ref page="2020/02.md" %}
-
-{% page-ref page="2020/01.md" %}
