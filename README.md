@@ -13,3 +13,4 @@ Im Inhaltsverzeichnis auf der linken Seite findet sich eine Auflistung der jewei
 {% page-ref page="2020/06.md" %}
 
 {% page-ref page="2020/05.md" %}
+
