@@ -4,6 +4,8 @@ An dieser Stelle geben wir einen detaillierten Einblick in unsere aktuellen Entw
 
 Im Inhaltsverzeichnis auf der linken Seite findet sich eine Auflistung der jeweiligen Monate, zu denen eine solche Zusammenstellung bereits vorliegt. Und zusätzlich sind im Folgenden auch einmal die 5 letzten Digests verlinkt:
 
+{% page-ref page="2022/04.md" %}
+
 {% page-ref page="2022/03.md" %}
 
 {% page-ref page="2022/02.md" %}
@@ -11,5 +13,3 @@ Im Inhaltsverzeichnis auf der linken Seite findet sich eine Auflistung der jewei
 {% page-ref page="2022/01.md" %}
 
 {% page-ref page="2021/12.md" %}
-
-{% page-ref page="2021/11.md" %}
