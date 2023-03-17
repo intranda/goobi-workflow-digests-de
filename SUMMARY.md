@@ -2,8 +2,15 @@
 
 * [Goobi workflow Digests](README.md)
 
+## 2023
+
+* [Februar](2023/februar.md)
+* [Januar](2023/1.md)
+
 ## 2022
 
+* [Dezember 2022](2022/12.md)
+* [November 2022](2022/11.md)
 * [Oktober 2022](2022/10.md)
 * [September 2022](2022/09.md)
 * [August 2022](2022/08.md)
