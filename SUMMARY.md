@@ -4,7 +4,7 @@
 
 ## 2023
 
-* [Februar](2023/februar.md)
+* [Februar](2023/2.md)
 * [Januar](2023/1.md)
 
 ## 2022
