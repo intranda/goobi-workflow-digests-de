@@ -4,7 +4,9 @@ An dieser Stelle geben wir einen detaillierten Einblick in unsere aktuellen Entw
 
 Im Inhaltsverzeichnis auf der linken Seite findet sich eine Auflistung der jeweiligen Monate, zu denen eine solche Zusammenstellung bereits vorliegt. Und zusätzlich sind im Folgenden auch einmal die letzten Digests verlinkt:
 
-
+{% content-ref url="2023/7.md" %}
+[7.md](2023/7.md)
+{% endcontent-ref %}
 
 {% content-ref url="2023/6.md" %}
 [6.md](2023/6.md)
@@ -24,8 +26,4 @@ Im Inhaltsverzeichnis auf der linken Seite findet sich eine Auflistung der jewei
 
 {% content-ref url="2023/2.md" %}
 [2.md](2023/2.md)
-{% endcontent-ref %}
-
-{% content-ref url="2023/1.md" %}
-[1.md](2023/1.md)
 {% endcontent-ref %}
