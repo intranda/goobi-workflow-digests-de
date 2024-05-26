@@ -4,6 +4,10 @@
 
 ## 2023
 
+* [November](2023/11.md)
+* [Oktober](2023/10.md)
+* [September](2023/9.md)
+* [August](2023/8.md)
 * [Juli](2023/7.md)
 * [Juni](2023/6.md)
 * [Mai](2023/5.md)
