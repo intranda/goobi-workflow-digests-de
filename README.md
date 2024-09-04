@@ -4,26 +4,26 @@ An dieser Stelle geben wir einen detaillierten Einblick in unsere aktuellen Entw
 
 Im Inhaltsverzeichnis auf der linken Seite findet sich eine Auflistung der jeweiligen Monate, zu denen eine solche Zusammenstellung bereits vorliegt. Und zusätzlich sind im Folgenden auch einmal die letzten Digests verlinkt:
 
+{% content-ref url="2023/4.md" %}
+[4.md](2023/4.md)
+{% endcontent-ref %}
+
+{% content-ref url="2023/3.md" %}
+[3.md](2023/3.md)
+{% endcontent-ref %}
+
+{% content-ref url="2023/2.md" %}
+[2.md](2023/2.md)
+{% endcontent-ref %}
+
+{% content-ref url="2024/1.md" %}
+[1.md](2024/1.md)
+{% endcontent-ref %}
+
+{% content-ref url="2023/12.md" %}
+[12.md](2023/12.md)
+{% endcontent-ref %}
+
 {% content-ref url="2023/11.md" %}
 [11.md](2023/11.md)
-{% endcontent-ref %}
-
-{% content-ref url="2023/10.md" %}
-[10.md](2023/10.md)
-{% endcontent-ref %}
-
-{% content-ref url="2023/9.md" %}
-[9.md](2023/9.md)
-{% endcontent-ref %}
-
-{% content-ref url="2023/8.md" %}
-[8.md](2023/8.md)
-{% endcontent-ref %}
-
-{% content-ref url="2023/7.md" %}
-[7.md](2023/7.md)
-{% endcontent-ref %}
-
-{% content-ref url="2023/6.md" %}
-[6.md](2023/6.md)
 {% endcontent-ref %}
